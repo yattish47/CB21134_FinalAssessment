@@ -8,6 +8,13 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
+
+
+// BCS3453 [PROJECT]-SEMESTER 2324/1
+// Student ID: CB21134
+// Student Name: Yattish A/L Jaya Nanda Kumar
+
+
 class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;

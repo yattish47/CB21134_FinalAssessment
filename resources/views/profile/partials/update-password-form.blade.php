@@ -1,4 +1,9 @@
 <section>
+
+     {{-- BCS3453 [PROJECT]-SEMESTER 2324/1
+ Student ID: CB21134
+ Student Name: Yattish A/L Jaya Nanda Kumar --}}
+
     <header>
         <h2 class="text-lg font-medium text-gray-900">
             {{ __('Update Password') }}

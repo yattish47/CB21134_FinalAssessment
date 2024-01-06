@@ -1,4 +1,7 @@
 <nav x-data="{ open: false }" class="bg-white border-b border-gray-100">
+     {{-- BCS3453 [PROJECT]-SEMESTER 2324/1
+ Student ID: CB21134
+ Student Name: Yattish A/L Jaya Nanda Kumar --}}
     <!-- Primary Navigation Menu -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16">

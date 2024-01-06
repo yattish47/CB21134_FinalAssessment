@@ -8,6 +8,10 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Password;
 use Illuminate\View\View;
 
+// BCS3453 [PROJECT]-SEMESTER 2324/1
+// Student ID: CB21134
+// Student Name: Yattish A/L Jaya Nanda Kumar
+
 class PasswordResetLinkController extends Controller
 {
     /**

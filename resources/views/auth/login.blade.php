@@ -1,4 +1,10 @@
 <x-guest-layout>
+
+    
+ {{-- BCS3453 [PROJECT]-SEMESTER 2324/1
+ Student ID: CB21134
+ Student Name: Yattish A/L Jaya Nanda Kumar --}}
+
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 

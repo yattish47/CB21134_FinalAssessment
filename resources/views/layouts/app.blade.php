@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
+ {{-- BCS3453 [PROJECT]-SEMESTER 2324/1
+ Student ID: CB21134
+ Student Name: Yattish A/L Jaya Nanda Kumar --}}
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">

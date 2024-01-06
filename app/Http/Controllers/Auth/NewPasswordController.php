@@ -12,6 +12,10 @@ use Illuminate\Support\Str;
 use Illuminate\Validation\Rules;
 use Illuminate\View\View;
 
+// BCS3453 [PROJECT]-SEMESTER 2324/1
+// Student ID: CB21134
+// Student Name: Yattish A/L Jaya Nanda Kumar
+
 class NewPasswordController extends Controller
 {
     /**

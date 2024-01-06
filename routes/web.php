@@ -6,6 +6,10 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\TransactionController;
 
+ // BCS3453 [PROJECT]-SEMESTER 2324/1
+    // Student ID: CB21134
+    // Student Name: Yattish A/L Jaya Nanda Kumar
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes

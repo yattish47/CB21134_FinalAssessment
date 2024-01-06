@@ -6,6 +6,10 @@ use Illuminate\Http\Request;
 use App\Models\category;
 use App\Models\transaction;
 
+// BCS3453 [PROJECT]-SEMESTER 2324/1
+// Student ID: CB21134
+// Student Name: Yattish A/L Jaya Nanda Kumar
+
 class DashboardController extends Controller
 {
     public function viewDashboard(){

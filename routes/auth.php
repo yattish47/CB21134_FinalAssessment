@@ -11,6 +11,11 @@ use App\Http\Controllers\Auth\RegisteredUserController;
 use App\Http\Controllers\Auth\VerifyEmailController;
 use Illuminate\Support\Facades\Route;
 
+
+    // BCS3453 [PROJECT]-SEMESTER 2324/1
+    // Student ID: CB21134
+    // Student Name: Yattish A/L Jaya Nanda Kumar
+
 Route::middleware('guest')->group(function () {
     Route::get('register', [RegisteredUserController::class, 'create'])
                 ->name('register');
