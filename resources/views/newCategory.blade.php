@@ -29,7 +29,7 @@
 
                             <!-- Initial Amount for Savings -->
                             <div class="mb-3" id="initialAmountInput" style="display: none;">
-                                <label for="categoryAmount" class="form-label">Initial Amount for Savings</label>
+                                <label for="categoryAmount" class="form-label">Initial Amount for Savings (RM)</label>
                                 <input type="number" class="form-control" id="categoryAmount" name="categoryAmount">
                             </div>
 

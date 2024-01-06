@@ -38,7 +38,7 @@
                                         }
 
                                     @endphp
-                                    <p class="card-text" style="font-size: 28px; color:rgb(0, 162, 226)"> ${{$totalSaving}}</p>
+                                    <p class="card-text" style="font-size: 28px; color:rgb(0, 162, 226)"> RM{{$totalSaving}}</p>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                             <div class="card border border-dark shadow-0 mb-3 w-75" style="max-width: 18rem;">
                                 <div class="card-body">
                                     <h5 class="card-title" style="font-size: 15px; color:rgb(131, 131, 131)">Total Expenses : </h5>
-                                    <p class="card-text" style="font-size: 28px; color:rgb(255, 17, 0)"> ${{ abs($totalExpense)}}</p>
+                                    <p class="card-text" style="font-size: 28px; color:rgb(255, 17, 0)"> RM{{ abs($totalExpense)}}</p>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                             <div class="card border border-dark shadow-0 mb-3 w-75" style="max-width: 18rem;">
                                 <div class="card-body">
                                     <h5 class="card-title" style="font-size: 15px; color:rgb(131, 131, 131)">Total Income : </h5>
-                                    <p class="card-text" style="font-size: 28px; color:rgb(38, 255, 0)"> ${{$totalIncome}}</p>
+                                    <p class="card-text" style="font-size: 28px; color:rgb(38, 255, 0)"> RM{{$totalIncome}}</p>
                                 </div>
                             </div>
                         </div>

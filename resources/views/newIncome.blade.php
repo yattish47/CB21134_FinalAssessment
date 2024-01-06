@@ -40,7 +40,7 @@
 
                             <div class="form-outline mb-3 mt-4" data-mdb-input-init>
                                 <input type="number" id="form12" class="form-control" name="IncomeAmount"  required />
-                                <label class="form-label" for="form12">Income Value</label>
+                                <label class="form-label" for="form12">Income Value (RM)</label>
                             </div>
 
                           

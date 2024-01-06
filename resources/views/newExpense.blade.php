@@ -38,7 +38,7 @@
 
                             <div class="form-outline mb-3 mt-4" data-mdb-input-init>
                                 <input type="number" id="form12" class="form-control" name="ExpenseAmount" required />
-                                <label class="form-label" for="form12">Expense Value</label>
+                                <label class="form-label" for="form12">Expense Value (RM)</label>
                               </div>
                             <div class="d-flex justify-content-center mt-4">
                                 <button type="submit" class="btn btn-primary categorysubmitbtn">Add Expense</button>
